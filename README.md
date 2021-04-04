@@ -5,7 +5,7 @@ See framebuffer spec for more details.
 
 ## Hardware used:
 * Raspberry Pi 4
-* 5 inch HDMI LCD used
+* 5 inch HDMI LCD 
 
 ## Requirements:
 * Gnat ada version >= Ada2012 
